@@ -1,0 +1,14 @@
+.ClaimContainer {
+    width: 100%;
+    margin: 0px auto;
+    max-width: 815px;
+}
+.previewImage {
+    align-items: center;
+    justify-content: center;
+    max-height: 100%;
+    max-width: 100%;
+    border-color: #ced4da;
+    margin: 10px;
+    
+}
