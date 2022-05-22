@@ -7,6 +7,10 @@ Blockchain helps us to minimize this type of fraud. We are here to help you out.
 
 **Note:** Current this demo is only for Physical Product verification. In future this concept will helpfull for verifying authenticity of any Digital Product or Digital Certificate.
 
+## ByOrigin Testnet Contract Address
+
+0xB4Fa01219D84496FFd9bD1bD2555D56DDe706CeC
+
 ## Process Flow
 
 ![image](https://user-images.githubusercontent.com/95995247/145702502-1f9095c0-36b6-45c9-ac1e-e59d6055735b.png)
