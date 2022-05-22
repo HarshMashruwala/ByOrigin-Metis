@@ -3,7 +3,7 @@
 In this day and age, can we trust any product presented to us? How do you know if the product is real or fake? First Copy/Duplicate product is readily available and makes manipulation easy. For example, any T-shirt/Shoes we buy online,we don't know it is original or duplicate.
 
 ## The Solution
-Blockchain helps us to minimize this type of fraud. We are here to help you out.ByOrigin gives the unique identity of each product using NFTs and verifies its authenticity by scanning QR codes on it.
+Blockchain helps us to minimize this type of fraud. We are here to help you out.ByOrigin gives the unique identity of each product using NFTs and verifies its authenticity by scanning QR codes on it.All product data stored on IPFS for fully decentralized storage.
 
 **Note:** Current this demo is only for Physical Product verification. In future this concept will helpfull for verifying authenticity of any Digital Product or Digital Certificate.
 
